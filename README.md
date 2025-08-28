@@ -14,7 +14,7 @@
 **🎉 Fun fact** I code in JavaScript, but I also speak **English, Hindi, and Odia** fluently 🌐 (And yes, coffee ☕ makes my debugging skills 10x faster 😉)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-kishor-pal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/raj-kishor-pal)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://github.com/raj-kishor-pal)  
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rajkishorpal330@gmail.com)
 
