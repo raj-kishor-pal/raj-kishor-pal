@@ -1,5 +1,5 @@
 # Hey, I'm Raj 👋
-*🌱 I’m currently working on**  
+**🌱 I’m currently working on** 
 Full-stack web apps with **React ⚛️ + Node.js ⚡**  
 
 **🤝 I’m looking to collaborate on**  
