@@ -1,5 +1,24 @@
-# 💫 About Me:
-🔭 I’m currently working on Building sleek and responsive full-stack applications — from crafting the perfect button click in React ⚛️ to wiring up smooth APIs with Node.js ⚡<br>👯 I’m looking to collaborate on Cool web dev projects that solve real-world problems — whether it’s data-heavy apps, productivity tools, or just something fun (bonus points if it involves React + APIs 🚀)<br>🤝 I’m looking for help with Leveling up my open-source game! I’d love guidance on contributing meaningfully to the community and scaling projects for wider adoption<br>🌱 I’m currently learning Diving deeper into modern React, API integrations, and full-stack best practices. Also geeking out about performance optimization 🏎️<br>💬 Ask me about <br>👉 How I went from Electrical Engineering ⚡ to Full-Stack Development 👨‍💻<br>👉 My projects like a real-time Wikipedia search tool or app discovery platform<br>👉 Why Flexbox is secretly a superhero 🦸‍♂️ for responsive design<br>⚡ Fun fact I can switch between coding in JavaScript and speaking in three languages (English, Hindi, Odia) without missing a beat. Also, yes — I debug faster after coffee ☕💻
+![](banner.png)
+
+# Hey, I'm Raj 👋
+*🌱 I’m currently working on**  
+Full-stack web apps with **React ⚛️ + Node.js ⚡**  
+
+**🤝 I’m looking to collaborate on**  
+Open-source & real-world web projects 🚀  
+
+**🙋 I’m looking for help with**  
+Growing in **open-source contributions** & scaling projects 🌍  
+
+**📚 I’m currently learning**  
+Modern **React**, API integrations & web performance 🏎️  
+
+**💬 Ask me about**  
+My projects, my career shift from **Electrical ⚡ → Web Dev 💻**, or why **Flexbox = superhero 🦸**  
+
+**🎉 Fun fact**  
+I code in JavaScript, but I also speak **English, Hindi, and Odia** fluently 🌐  
+(And yes, coffee ☕ makes my debugging skills 10x faster 😉)
 
 
 ## 🌐 Socials:
