@@ -1,5 +1,3 @@
-![](banner.png)
-
 # Hey, I'm Raj 👋
 *🌱 I’m currently working on**  
 Full-stack web apps with **React ⚛️ + Node.js ⚡**  
